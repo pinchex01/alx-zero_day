@@ -1,1 +1,1 @@
-git fetch
+echo "git pull"
